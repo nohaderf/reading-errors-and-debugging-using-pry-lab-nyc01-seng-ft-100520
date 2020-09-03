@@ -1,5 +1,3 @@
-# don't forget to add: require 'pry'
-
 require 'pry'
 
 def get_user_input
@@ -24,3 +22,6 @@ def runner
   prompt_user
   selection(get_user_input)
 end
+
+
+# don't forget to add: require 'pry'
